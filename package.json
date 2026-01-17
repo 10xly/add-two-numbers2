@@ -1,6 +1,6 @@
 {
   "name": "add-two-numbers2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Adds two numbers",
   "keywords": [
     "numbers",
@@ -24,8 +24,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "examplebyraji": "^1.0.0",
-    "number-intrinsic-ai": "^1.0.0"
-  },
-  "devDependencies": {}
+    "@stdlib/number-ctor": "^0.2.2",
+    "examplebyraji": "^1.0.0"
+  }
 }
