@@ -1,0 +1,31 @@
+{
+  "name": "add-two-numbers2",
+  "version": "1.0.0",
+  "description": "Adds two numbers",
+  "keywords": [
+    "numbers",
+    "two",
+    "jquery",
+    "10xly-made"
+  ],
+  "homepage": "https://github.com/10xly/add-two-numbers2#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/add-two-numbers2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/add-two-numbers2.git"
+  },
+  "license": "MIT",
+  "author": "me",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "examplebyraji": "^1.0.0",
+    "number-intrinsic-ai": "^1.0.0"
+  },
+  "devDependencies": {}
+}
